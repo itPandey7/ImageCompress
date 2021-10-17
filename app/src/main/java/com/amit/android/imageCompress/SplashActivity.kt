@@ -28,7 +28,7 @@
  * THE SOFTWARE.
  */
 
-package com.raywenderlich.android.razegalactic
+package com.amit.android.imageCompress
 
 import android.content.Intent
 import android.os.Bundle

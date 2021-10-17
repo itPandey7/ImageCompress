@@ -1,4 +1,4 @@
-package com.raywenderlich.android.razegalactic
+package com.amit.android.imageCompress
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

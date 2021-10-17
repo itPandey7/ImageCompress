@@ -3,4 +3,9 @@
     <color name="colorPrimary">#006837</color>
     <color name="colorPrimaryDark">#004012</color>
     <color name="colorAccent">#c75f00</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="pencil_icon_color">#FF018786</color>
+
 </resources>

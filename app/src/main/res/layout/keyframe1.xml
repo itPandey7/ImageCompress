@@ -164,7 +164,7 @@
         app:layout_constraintStart_toStartOf="@+id/guideline2"
         app:layout_constraintTop_toBottomOf="@+id/switch1" />
 
-    <ImageView
+    <com.amit.android.imageCompress.CircleImageView
         android:id="@+id/rocketIcon"
         android:layout_width="30dp"
         android:layout_height="30dp"

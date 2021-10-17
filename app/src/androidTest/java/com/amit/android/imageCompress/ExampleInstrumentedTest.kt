@@ -1,4 +1,4 @@
-package com.raywenderlich.android.razegalactic
+package com.amit.android.imageCompress
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
